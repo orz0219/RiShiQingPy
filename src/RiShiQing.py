@@ -5,23 +5,12 @@ import time
 
 class RiShiQing(object):
     _userMessage = {
-        'j_username': '18510514177',
-        'j_password': 'x1234567'
+        'j_username': 'your_userName',
+        'j_password': 'your_password'
     }
     _day = '2019.01.09'
     _header ={
-        'token': 'new_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9'
-             '.eyJwYXNzd29yZCI6Ijc0MDQyMGFhZTQzOWNlM'
-             'mM3YzQxMjE2M2ViOTI3MzUyOTI2YWY4MTlmMDgw'
-             'YTQ1NDhkZGE2YzFkNmM1YWVhNTIxNTY4Y2VlNjYy'
-             'NDAxMTIyNmU1NjQ4ZjE0OWY4NDU3MmZiN2Y4OD'
-             'RmMjk0MWQwZTMwYTU4NDhhMzVlYzIyOTA1IiwiYW'
-             'Njb3VudE5hbWUiOiLmh5JNYXgiLCJpZCI6NDE0MTkw'
-             'NCwiZXhwIjoxNTQ5NTMwNDQ4LCJ1c2VySWQiOjQx'
-             'NDE5MDQsImlhdCI6MTU0NjkzODQ0OCwiYXV0aFNjb'
-             '3BlIjp7fSwidXNlcm5hbWUiOiJmMGE0MjVhY2VjMzk0M'
-             '2IwOWMxYjU5YTE0YzZlYWMzMiJ9.w4iltxu68Opcjbvgr'
-             '8nPMM1FIWLDUyKbxGfUzpxEkj8 ',
+        'token': 'your_token_from_url',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36',
         'Content-Type': 'application/json',
         'X-Requested-With': 'XMLHttpRequest'
