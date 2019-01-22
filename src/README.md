@@ -8,3 +8,7 @@
 
 ### 打包exe
 推荐 pyinstaller
+
+### 如何获取token
+1. 进入日事清官网页面 打开调试工具 随便触发一个请求 然后如图
+2. ![token](https://github.com/orz0219/RiShiQingPy/blob/master/img/token.jpg)
